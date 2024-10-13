@@ -1,6 +1,6 @@
 # soho-project
 # **Advanced SOHO Network Infrastructure Project.**
-## *[The network consists of :]()*
+## *[The network consists of :](https://github.com/ramilsfrv01/soho-project/blob/main/image.png)*
 ###  - VLAN Switching, seperate VLAN for each corporate team
 ###  - PVST+ Protocol / Load Balancing between switches
 ###  - Port Security, assuring one sticky MAC addres for end users each
